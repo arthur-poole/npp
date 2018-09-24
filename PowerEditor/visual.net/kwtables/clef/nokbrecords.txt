@@ -1,0 +1,4 @@
+D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\Parameters.h
+D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\WinControls\SplitterContainer\SplitterContainer.h
+D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\WinControls\TabBar\ControlsTab.h
+D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\uchardet\nsPkgInt.h

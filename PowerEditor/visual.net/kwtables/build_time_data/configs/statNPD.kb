@@ -1,0 +1,358 @@
+TreeView::getNextSibling const\ TreeView*,_TREEITEM*,  CHECKRET 0
+NativeLangSpeaker::searchDlgNode NativeLangSpeaker*,TiXmlNodeA*,const\ char*,  CHECKRET 0
+TiXmlNode::FirstChild const\ TiXmlNode*,const\ wchar_t*,  CHECKRET 0
+NppParameters::getLangExtFromName const\ NppParameters*,const\ wchar_t*,  CHECKRET 0
+WcharMbcsConvertor::char2wchar WcharMbcsConvertor*,const\ char*,unsigned\ int,int,int*,int*,  CHECKRET 1
+NppParameters::getAppDataNppDir const\ NppParameters*,  CHECKRET 0
+FileManager::getBufferByID FileManager*,Buffer*,  CHECKRET 1
+Utf8_16_Write::fopen Utf8_16_Write*,const\ wchar_t*,const\ wchar_t*,  CHECKRET 0
+GetProcAddress -  CHECKRET 0
+FileManager::bufferFromDocument FileManager*,long\ long\ int,bool,bool,  CHECKRET 0
+new[] ,unsigned\ long\ long\ int,  CHECKRET 1
+GetModuleHandleW -  CHECKRET 0
+LexerStyler::getLexerUserExt const\ LexerStyler*,  CHECKRET 0
+FindWindowW -  CHECKRET 0
+TiXmlNodeA::FirstChildElement const\ TiXmlNodeA*,  CHECKRET 0
+TiXmlDeclarationA::Encoding const\ TiXmlDeclarationA*,  CHECKRET 0
+get1stExt ,wchar_t*,  CHECKRET 0
+CreateBitmap -  CHECKRET 0
+TiXmlAttribute::Parse TiXmlBase*,const\ wchar_t*,TiXmlParsingData*,  CHECKRET 0
+FileBrowser::findChildNodeFromName FileBrowser*,_TREEITEM*,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >,  CHECKRET 0
+DockingManager::toggleActiveTb DockingManager*,DockingCont*,unsigned\ int,int,tagRECT*,  CHECKRET 0
+TiXmlNodeA::FirstChildElement const\ TiXmlNodeA*,const\ char*,  CHECKRET 0
+TiXmlAttribute::Next const\ TiXmlAttribute*,  CHECKRET 0
+TiXmlBaseA::ReadText ,const\ char*,std::basic_string<char,std::char_traits<char>,std::allocator<char>\ >*,bool,const\ char*,bool,  CHECKRET 0
+TreeView::getPrevSibling const\ TreeView*,_TREEITEM*,  CHECKRET 0
+WINRECT::Next WINRECT*,  CHECKRET 0
+PathFindFileNameW -  CHECKRET 1
+TreeView::getParent const\ TreeView*,_TREEITEM*,  CHECKRET 0
+TiXmlElementA::Attribute const\ TiXmlElementA*,const\ char*,  CHECKRET 0
+UserCommand::getCmd const\ UserCommand*,  CHECKRET 0
+TiXmlBase::GetEntity ,const\ wchar_t*,wchar_t*,  CHECKRET 0
+std::_Container_base12::_Getpfirst const\ std::_Container_base12*,  CHECKRET 1
+getSciLexerFullPathName ,wchar_t*,unsigned\ long\ long\ int,  CHECKRET 0
+Buffer::getCurrentLang const\ Buffer*,  CHECKRET 0
+TiXmlText::Parse TiXmlBase*,const\ wchar_t*,TiXmlParsingData*,  CHECKRET 0
+LoadImageW -  CHECKRET 1
+__kw_va_arg -  CHECKRET 0
+ScintillaEditView::getCompleteKeywordList ScintillaEditView*,std::basic_string<char,std::char_traits<char>,std::allocator<char>\ >&,LangType,int,  CHECKRET 1
+TreeView::getRoot const\ TreeView*,  CHECKRET 0
+LexerStyler::getLexerName const\ LexerStyler*,  CHECKRET 0
+FileManager::newEmptyDocument FileManager*,  CHECKRET 0
+FileDialog::doOpenSingleFileDlg FileDialog*,  CHECKRET 0
+TiXmlBase::ReadText ,const\ wchar_t*,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >*,bool,const\ wchar_t*,bool,  CHECKRET 0
+std::locale::c_str const\ std::locale*,  CHECKRET 1
+TiXmlNode::NextSibling const\ TiXmlNode*,const\ wchar_t*,  CHECKRET 0
+_itow -  CHECKRET 0
+ProjectPanel::addFolder ProjectPanel*,_TREEITEM*,const\ wchar_t*,  CHECKRET 0
+WINRECT::Parent WINRECT*,  CHECKRET 0
+BeginDeferWindowPos -  CHECKRET 0
+ATL::AtlFindStringResourceInstance ,unsigned\ int,unsigned\ short\ int,  CHECKRET 0
+wmemchr -  CHECKRET 0
+memset -  CHECKRET 0
+Buffer::getFullPathName const\ Buffer*,  CHECKRET 1
+CreateDialogIndirectParamW -  CHECKRET 0
+LexerStylerArray::getLexerNameFromIndex const\ LexerStylerArray*,int,  CHECKRET 0
+Window::getHinst const\ Window*,  CHECKRET 1
+DockingCont::getDataOfActiveTb DockingCont*,  CHECKRET 0
+NppParameters::getInstance ,  CHECKRET 1
+Buffer::getCommentStart const\ Buffer*,  CHECKRET 0
+WcharMbcsConvertor::wchar2char WcharMbcsConvertor*,const\ wchar_t*,unsigned\ int,int,int*,  CHECKRET 1
+NppParameters::getWorkingDir const\ NppParameters*,  CHECKRET 0
+ScintillaEditView::getCurrentBufferID ScintillaEditView*,  CHECKRET 1
+TiXmlNode::Identify TiXmlNode*,const\ wchar_t*,  CHECKRET 0
+TiXmlNodeA::Identify TiXmlNodeA*,const\ char*,  CHECKRET 0
+NppParameters::getExternalLexerDoc NppParameters*,  CHECKRET 0
+TiXmlAttributeSetA::Find const\ TiXmlAttributeSetA*,const\ char*,  CHECKRET 0
+DockingCont::findToolbarByName DockingCont*,wchar_t*,  CHECKRET 0
+TiXmlBase::ReadName ,const\ wchar_t*,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >*,  CHECKRET 0
+Buffer::getFileName const\ Buffer*,  CHECKRET 1
+ScintillaCtrls::createSintilla ScintillaCtrls*,HWND__*,  CHECKRET 0
+WINRECT::InitMap ,WINRECT*,WINRECT*,  CHECKRET 0
+GetClipboardData -  CHECKRET 0
+TreeView::getSelection const\ TreeView*,  CHECKRET 0
+FileNameStringSplitter::getFileName const\ FileNameStringSplitter*,unsigned\ long\ long\ int,  CHECKRET 0
+Notepad_plus::doOpen Notepad_plus*,const\ std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >&,bool,bool,int,const\ wchar_t*,long\ long\ int,  CHECKRET 0
+TreeView::getChildFrom const\ TreeView*,_TREEITEM*,  CHECKRET 0
+Accelerator::getIncrFindAccTable const\ Accelerator*,  CHECKRET 0
+Buffer::getCommentLineSymbol const\ Buffer*,  CHECKRET 0
+CreateAcceleratorTableW -  CHECKRET 0
+TiXmlNode::NextSiblingElement const\ TiXmlNode*,  CHECKRET 0
+TiXmlNode::FirstChildElement const\ TiXmlNode*,const\ wchar_t*,  CHECKRET 0
+TiXmlNode::Value const\ TiXmlNode*,  CHECKRET 0
+CreatePopupMenu -  CHECKRET 1
+std::exception::what const\ std::exception*,  CHECKRET 1
+TiXmlNode::FirstChild const\ TiXmlNode*,  CHECKRET 0
+TiXmlNodeA::Value const\ TiXmlNodeA*,  CHECKRET 0
+NppParameters::getNativeLangSpeaker NppParameters*,  CHECKRET 1
+CreateFontA -  CHECKRET 0
+MapViewOfFile -  CHECKRET 0
+CreateHatchBrush -  CHECKRET 0
+TiXmlAttributeSet::First const\ TiXmlAttributeSet*,  CHECKRET 0
+CreateFileW -  CHECKRET 0
+WcharMbcsConvertor::encode WcharMbcsConvertor*,unsigned\ int,unsigned\ int,const\ char*,int,int*,int*,  CHECKRET 0
+GetDlgItem -  CHECKRET 1
+DockingCont::findToolbarByWnd DockingCont*,HWND__*,  CHECKRET 0
+Buffer::getID const\ Buffer*,  CHECKRET 0
+TreeView::addItem TreeView*,const\ wchar_t*,_TREEITEM*,int,const\ wchar_t*,  CHECKRET 0
+LoadMenuW -  CHECKRET 0
+TiXmlElement::Attribute const\ TiXmlElement*,const\ wchar_t*,int*,  CHECKRET 0
+ATL::CAtlStringMgr::GetInstance ,  CHECKRET 0
+ToolBarIcons::getDisableLst const\ ToolBarIcons*,  CHECKRET 0
+ImageList_Create -  CHECKRET 0
+ATL::CTrace::GetCategoryName ,unsigned\ int,  CHECKRET 0
+TiXmlNode::LastChild const\ TiXmlNode*,  CHECKRET 0
+TiXmlNodeA::NextSiblingElement const\ TiXmlNodeA*,const\ char*,  CHECKRET 0
+TiXmlAttribute::Name const\ TiXmlAttribute*,  CHECKRET 0
+TiXmlAttributeSet::Find const\ TiXmlAttributeSet*,const\ wchar_t*,  CHECKRET 0
+memmove -  CHECKRET 0
+FileDialog::doOpenMultiFilesDlg FileDialog*,  CHECKRET 0
+wcschr ,wchar_t*,wchar_t,  CHECKRET 0
+Command::run Command*,HWND__*,  CHECKRET 0
+CreateWindowExW -  CHECKRET 0
+SetClipboardData -  CHECKRET 0
+NppParameters::getChildElementByAttribut const\ NppParameters*,TiXmlNode*,const\ wchar_t*,const\ wchar_t*,const\ wchar_t*,  CHECKRET 0
+CreatePatternBrush -  CHECKRET 0
+WINRECT::Prev WINRECT*,  CHECKRET 0
+new ,unsigned\ long\ long\ int,void*,  CHECKRET 1
+std::locale::_Getfacet const\ std::locale*,unsigned\ long\ long\ int,  CHECKRET 0
+std::_Fiopen ,const\ wchar_t*,int,int,  CHECKRET 0
+TiXmlNodeA::NextSibling const\ TiXmlNodeA*,const\ char*,  CHECKRET 0
+GlobalAlloc -  CHECKRET 0
+GetDesktopWindow -  CHECKRET 0
+LoadLibraryW -  CHECKRET 0
+localeconv -  CHECKRET 0
+std::locale::_Locimp::_New_Locimp ,bool,  CHECKRET 0
+NppParameters::getLRFile const\ NppParameters*,int,  CHECKRET 0
+localtime -  CHECKRET 0
+TiXmlNode::FirstChildElement const\ TiXmlNode*,  CHECKRET 0
+StaticDialog::makeRTLResource StaticDialog*,int,DLGTEMPLATE**,  CHECKRET 0
+_errno -  CHECKRET 0
+CreateMenu -  CHECKRET 0
+NppParameters::getULCFromName NppParameters*,const\ wchar_t*,  CHECKRET 0
+SHBrowseForFolderW -  CHECKRET 0
+ATL::IAtlStringMgr::Reallocate ATL::IAtlStringMgr*,ATL::CStringData*,int,int,  CHECKRET 0
+GetMenu -  CHECKRET 1
+UserLangContainer::getName UserLangContainer*,  CHECKRET 0
+TiXmlNode::Clone const\ TiXmlNode*,  CHECKRET 0
+TiXmlNodeA::LinkEndChild TiXmlNodeA*,TiXmlNodeA*,  CHECKRET 0
+new ,unsigned\ long\ long\ int,  CHECKRET 1
+NppParameters::getToolIcons const\ NppParameters*,  CHECKRET 0
+TiXmlAttributeA::Value const\ TiXmlAttributeA*,  CHECKRET 0
+Win32Exception::where const\ Win32Exception*,  CHECKRET 0
+GetDC -  CHECKRET 1
+Lang::getWords const\ Lang*,int,  CHECKRET 0
+TiXmlNodeA::ToDocument const\ TiXmlNodeA*,  CHECKRET 0
+FindFirstFileW -  CHECKRET 0
+Shortcut::getMenuName const\ Shortcut*,  CHECKRET 0
+TiXmlNode::ToDocument const\ TiXmlNode*,  CHECKRET 0
+MD5::digestString MD5*,const\ char*,  CHECKRET 0
+FindReplaceDlg::getDir2Search const\ FindReplaceDlg*,  CHECKRET 0
+TaskList::GetFontSelected TaskList*,  CHECKRET 0
+SetWindowsHookExW -  CHECKRET 0
+std::condition_variable::_Mycnd std::condition_variable*,  CHECKRET 0
+CommandShortcut::getCategory const\ CommandShortcut*,  CHECKRET 0
+Window::getHParent const\ Window*,  CHECKRET 0
+RealChildWindowFromPoint -  CHECKRET 0
+EncodingMapper::getInstance ,  CHECKRET 0
+FileManager::getBufferFromDocument FileManager*,long\ long\ int,  CHECKRET 0
+CreateCompatibleDC -  CHECKRET 0
+TiXmlNode::NextSiblingElement const\ TiXmlNode*,const\ wchar_t*,  CHECKRET 0
+memchr -  CHECKRET 0
+TiXmlBaseA::ReadName ,const\ char*,std::basic_string<char,std::char_traits<char>,std::allocator<char>\ >*,  CHECKRET 0
+std::_Allocate ,unsigned\ long\ long\ int,unsigned\ long\ long\ int,bool,  CHECKRET 1
+LoadCursorW -  CHECKRET 0
+FunctionListPanel::getFromStateArray FunctionListPanel*,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >,  CHECKRET 0
+Lang::getDefaultExtList const\ Lang*,  CHECKRET 0
+ATL::IAtlStringMgr::Clone ATL::IAtlStringMgr*,  CHECKRET 0
+ATL::AtlGetStringResourceImage ,HINSTANCE__*,unsigned\ int,  CHECKRET 0
+GetPropW -  CHECKRET 0
+TiXmlNodeA::FirstChild const\ TiXmlNodeA*,const\ char*,  CHECKRET 0
+itoa -  CHECKRET 0
+GetStockObject -  CHECKRET 0
+NppParameters::getWordList const\ NppParameters*,LangType,int,  CHECKRET 0
+CreateFontIndirectW -  CHECKRET 0
+CertFindCertificateInStore -  CHECKRET 0
+ScintillaEditView::getUserDefineDlg ,  CHECKRET 0
+Notepad_plus_Window::getClassName ,  CHECKRET 0
+CreateCursor -  CHECKRET 0
+FileManager::getInstance ,  CHECKRET 1
+std::_Iterator_base12::_Getpnext std::_Iterator_base12*,  CHECKRET 1
+TiXmlTextA::Parse TiXmlBaseA*,const\ char*,TiXmlParsingDataA*,  CHECKRET 0
+std::_Locinfo::_Getname const\ std::_Locinfo*,  CHECKRET 0
+TiXmlElementA::ReadValue TiXmlElementA*,const\ char*,TiXmlParsingDataA*,  CHECKRET 0
+wcsstr -  CHECKRET 0
+GetSubMenu -  CHECKRET 0
+PluginCmdShortcut::getModuleName const\ PluginCmdShortcut*,  CHECKRET 0
+FindResourceExW -  CHECKRET 0
+fgets -  CHECKRET 0
+std::_Mutex_base::_Mymtx std::_Mutex_base*,  CHECKRET 0
+Accelerator::getFindAccTable const\ Accelerator*,  CHECKRET 0
+wcstok -  CHECKRET 0
+PluginsManager::getMenuHandle const\ PluginsManager*,  CHECKRET 0
+PR_Malloc ,unsigned\ long\ long\ int,  CHECKRET 0
+ATL::_AtlGetStringResourceImage ,HINSTANCE__*,HRSRC__*,unsigned\ int,  CHECKRET 0
+TiXmlAttributeA::Name const\ TiXmlAttributeA*,  CHECKRET 0
+TiXmlElement::ReadValue TiXmlElement*,const\ wchar_t*,TiXmlParsingData*,  CHECKRET 0
+Notepad_plus::getStyleFromName Notepad_plus*,const\ wchar_t*,  CHECKRET 0
+FunctionParsersManager::getParser FunctionParsersManager*,const\ AssociationInfo&,  CHECKRET 0
+NppParameters::getNativeLangA const\ NppParameters*,  CHECKRET 0
+WcharMbcsConvertor::getInstance ,  CHECKRET 1
+std::locale::facet::_Decref std::_Facet_base*,  CHECKRET 0
+FileDialog::doSaveDlg FileDialog*,  CHECKRET 0
+WcharMbcsConvertor::wchar2char WcharMbcsConvertor*,const\ wchar_t*,unsigned\ int,long\ int*,long\ int*,  CHECKRET 0
+TiXmlNode::GetDocument const\ TiXmlNode*,  CHECKRET 0
+DocTabView::getBufferByIndex DocTabView*,unsigned\ long\ long\ int,  CHECKRET 1
+CreateSolidBrush -  CHECKRET 1
+std::_Locinfo::_Getfalse const\ std::_Locinfo*,  CHECKRET 0
+std::_Crt_new_delete::new ,unsigned\ long\ long\ int,const\ std::nothrow_t&,  CHECKRET 0
+ATL::IAtlStringMgr::Allocate ATL::IAtlStringMgr*,int,int,  CHECKRET 0
+WcharMbcsConvertor::char2wchar WcharMbcsConvertor*,const\ char*,unsigned\ int,int*,int*,  CHECKRET 0
+Win32Exception::info const\ Win32Exception*,  CHECKRET 0
+Notepad_plus_Window::getAccTable const\ Notepad_plus_Window*,  CHECKRET 0
+wmemcpy -  CHECKRET 0
+GlobalLock -  CHECKRET 0
+GetParent -  CHECKRET 1
+GetProcessHeap -  CHECKRET 0
+LoadIconW -  CHECKRET 0
+IconLists::getImageListHandle const\ IconLists*,int,  CHECKRET 0
+wcstok ,wchar_t*,const\ wchar_t*,  CHECKRET 0
+TiXmlBaseA::SkipWhiteSpace ,const\ char*,  CHECKRET 0
+Window::getHSelf const\ Window*,  CHECKRET 1
+wmemset -  CHECKRET 0
+LoadBitmapW -  CHECKRET 0
+CreateFileMappingW -  CHECKRET 0
+std::_Iterator_base12::_Getcont const\ std::_Iterator_base12*,  CHECKRET 0
+FileBrowser::getRootFromFullPath const\ FileBrowser*,const\ std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >&,  CHECKRET 0
+TiXmlNode::LinkEndChild TiXmlNode*,TiXmlNode*,  CHECKRET 0
+ScintillaEditView::getWordFromRange ScintillaEditView*,char*,int,int,int,  CHECKRET 0
+TiXmlBaseA::GetChar ,const\ char*,char*,  CHECKRET 0
+lstrcpyW -  CHECKRET 0
+DocTabView::getScintillaEditView const\ DocTabView*,  CHECKRET 0
+TreeView::searchSubItemByName TreeView*,const\ wchar_t*,_TREEITEM*,  CHECKRET 0
+lstrcatW -  CHECKRET 0
+FileBrowser::createFolderItemsFromDirStruct FileBrowser*,_TREEITEM*,const\ FolderInfo&,  CHECKRET 0
+NppParameters::getEnableThemeDlgTexture const\ NppParameters*,  CHECKRET 0
+GetCurrentProcess -  CHECKRET 0
+nsCharSetProber::GetCharSetName nsCharSetProber*,  CHECKRET 0
+NppParameters::getScintillaAccelerator NppParameters*,  CHECKRET 0
+wcschr -  CHECKRET 0
+Shortcut::getName const\ Shortcut*,  CHECKRET 1
+FileManager::getBufferByIndex FileManager*,unsigned\ long\ long\ int,  CHECKRET 0
+wcsstr ,wchar_t*,const\ wchar_t*,  CHECKRET 0
+TiXmlBaseA::GetEntity ,const\ char*,char*,  CHECKRET 0
+DockingCont::getTabWnd DockingCont*,  CHECKRET 0
+Notepad_plus::getAccTable const\ Notepad_plus*,  CHECKRET 0
+ShellExecuteW -  CHECKRET 0
+TiXmlAttributeSetA::First const\ TiXmlAttributeSetA*,  CHECKRET 0
+TiXmlNodeA::ToText const\ TiXmlNodeA*,  CHECKRET 0
+std::_Locinfo::_Getlconv const\ std::_Locinfo*,  CHECKRET 0
+FileManager::getBufferFromName FileManager*,const\ wchar_t*,  CHECKRET 0
+CreateEventW -  CHECKRET 0
+NativeLangSpeaker::getFileName const\ NativeLangSpeaker*,  CHECKRET 0
+CreateDialogParamW -  CHECKRET 0
+NppParameters::getLangFromIndex const\ NppParameters*,unsigned\ long\ long\ int,  CHECKRET 0
+Notepad_plus::fileSaveSession Notepad_plus*,unsigned\ long\ long\ int,wchar_t**,const\ wchar_t*,  CHECKRET 0
+NppParameters::insertGUIConfigBoolNode NppParameters*,TiXmlNode*,const\ wchar_t*,bool,  CHECKRET 0
+__local_stdio_printf_options -  CHECKRET 0
+std::locale::_Getgloballocale ,  CHECKRET 0
+TiXmlAttributeA::Parse TiXmlBaseA*,const\ char*,TiXmlParsingDataA*,  CHECKRET 0
+CreateCompatibleBitmap -  CHECKRET 0
+TiXmlNodeA::NextSiblingElement const\ TiXmlNodeA*,  CHECKRET 0
+NppParameters::getLangExtFromLangType const\ NppParameters*,LangType,  CHECKRET 0
+TiXmlBaseA::Parse TiXmlBaseA*,const\ char*,TiXmlParsingDataA*,  CHECKRET 0
+CreateFontW -  CHECKRET 0
+memcpy -  CHECKRET 0
+ImageNtHeader -  CHECKRET 0
+FindResourceW -  CHECKRET 0
+malloc -  CHECKRET 0
+MonitorFromWindow -  CHECKRET 0
+Utf8_16_Write::getNewBuf Utf8_16_Write*,  CHECKRET 0
+OpenEventW -  CHECKRET 0
+CreateToolTip ,int,HWND__*,HINSTANCE__*,wchar_t*,  CHECKRET 0
+TiXmlNodeA::ToElement const\ TiXmlNodeA*,  CHECKRET 1
+FindReplaceDlg::createFinder FindReplaceDlg*,  CHECKRET 0
+LexerStylerArray::getLexerDescFromIndex const\ LexerStylerArray*,int,  CHECKRET 0
+_calloc_dbg -  CHECKRET 0
+AutoCompletion::getApiFileName AutoCompletion*,  CHECKRET 0
+Lang::getLangName const\ Lang*,  CHECKRET 0
+TiXmlNodeA::FirstChild const\ TiXmlNodeA*,  CHECKRET 0
+DocTabView::findBufferByName DocTabView*,const\ wchar_t*,  CHECKRET 0
+CreatePen -  CHECKRET 0
+NppParameters::getAccelerator NppParameters*,  CHECKRET 0
+NppParameters::getUserDefinedLangNameFromExt const\ NppParameters*,wchar_t*,wchar_t*,  CHECKRET 0
+FileManager::loadFile FileManager*,const\ wchar_t*,long\ long\ int,int,const\ wchar_t*,long\ long\ int,  CHECKRET 0
+new ,unsigned\ int,  CHECKRET 0
+wmemmove -  CHECKRET 1
+Gripper::contHitTest Gripper*,tagPOINT,  CHECKRET 0
+Utf8_16_Read::getNewBuf const\ Utf8_16_Read*,  CHECKRET 0
+TiXmlNode::InsertEndChild TiXmlNode*,const\ TiXmlNode&,  CHECKRET 1
+wcsrchr -  CHECKRET 0
+NppParameters::getLangFromID const\ NppParameters*,LangType,  CHECKRET 0
+CWinMgr::FindRect CWinMgr*,int,  CHECKRET 0
+_malloc_dbg -  CHECKRET 0
+LexerStylerArray::getLexerStylerByName LexerStylerArray*,const\ wchar_t*,  CHECKRET 0
+GetCommandLineW -  CHECKRET 0
+TaskList::getImgLst const\ TaskList*,  CHECKRET 0
+HandleUniversalDetector::GetCharset const\ HandleUniversalDetector*,  CHECKRET 0
+ATL::CCRTAllocator::Allocate ,unsigned\ long\ long\ int,  CHECKRET 0
+SelectObject -  CHECKRET 1
+TiXmlNode::ToText const\ TiXmlNode*,  CHECKRET 0
+Buffer::getCommentEnd const\ Buffer*,  CHECKRET 0
+ScintillaCtrls::getScintillaEditViewFrom ScintillaCtrls*,HWND__*,  CHECKRET 0
+TiXmlNodeA::GetDocument const\ TiXmlNodeA*,  CHECKRET 0
+ByteArray::getPointer const\ ByteArray*,  CHECKRET 0
+LocalAlloc -  CHECKRET 0
+TiXmlBase::SkipWhiteSpace ,const\ wchar_t*,  CHECKRET 0
+Accelerator::getAccTable const\ Accelerator*,  CHECKRET 0
+Buffer::getUserDefineLangName const\ Buffer*,  CHECKRET 1
+GetFocus -  CHECKRET 0
+ToolBarIcons::getDefaultLst const\ ToolBarIcons*,  CHECKRET 0
+PathFindExtensionW -  CHECKRET 0
+uchardet_get_charset -  CHECKRET 0
+LexerStyler::getLexerDesc const\ LexerStyler*,  CHECKRET 0
+FileBrowser::findInTree FileBrowser*,std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >,_TREEITEM*,std::vector<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >,std::allocator<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >\ >\ >,  CHECKRET 0
+BeginPaint -  CHECKRET 0
+std::_Locinfo::_Gettrue const\ std::_Locinfo*,  CHECKRET 0
+TiXmlNodeA::NextSibling const\ TiXmlNodeA*,  CHECKRET 0
+std::_Crt_new_delete::new ,unsigned\ long\ long\ int,  CHECKRET 1
+MD5::digestFile MD5*,const\ char*,  CHECKRET 0
+TiXmlNodeA::Clone const\ TiXmlNodeA*,  CHECKRET 0
+CreateThread -  CHECKRET 0
+Gripper::workHitTest Gripper*,tagPOINT,tagRECT*,  CHECKRET 0
+CreateMutexW -  CHECKRET 0
+TiXmlElement::Attribute const\ TiXmlElement*,const\ std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>\ >&,  CHECKRET 0
+TiXmlAttributeA::Next const\ TiXmlAttributeA*,  CHECKRET 0
+TiXmlElement::Attribute const\ TiXmlElement*,const\ wchar_t*,  CHECKRET 0
+_wfopen -  CHECKRET 0
+TiXmlNode::ToElement const\ TiXmlNode*,  CHECKRET 1
+ContextMenu::getMenuHandle const\ ContextMenu*,  CHECKRET 0
+IconList::getHandle const\ IconList*,  CHECKRET 0
+LoadResource -  CHECKRET 0
+WindowFromPoint -  CHECKRET 0
+__local_stdio_scanf_options -  CHECKRET 0
+uchardet_new -  CHECKRET 0
+NativeLangSpeaker::getNativeLangA NativeLangSpeaker*,  CHECKRET 0
+Notepad_plus::getCurrentBuffer Notepad_plus*,  CHECKRET 0
+TiXmlNodeA::ToDeclaration const\ TiXmlNodeA*,  CHECKRET 0
+LockResource -  CHECKRET 0
+Win32Exception::what const\ std::exception*,  CHECKRET 0
+TiXmlNode::NextSibling const\ TiXmlNode*,  CHECKRET 0
+ProjectPanel::getWorkSpaceFilePath const\ ProjectPanel*,  CHECKRET 0
+fgetws -  CHECKRET 0
+std::_Maklocstr ,const\ char*,wchar_t*,const\ _Cvtvec&,  CHECKRET 0
+ScintillaEditView::getCurrentBuffer ScintillaEditView*,  CHECKRET 1
+ToolBarIcons::getHotLst const\ ToolBarIcons*,  CHECKRET 0
+_localtime64 -  CHECKRET 0
+ATL::CStringData::data ATL::CStringData*,  CHECKRET 0
+ATL::AtlGetStringResourceImage ,HINSTANCE__*,unsigned\ int,unsigned\ short\ int,  CHECKRET 0
+ATL::CAtlBaseModule::GetHInstanceAt ATL::CAtlBaseModule*,int,  CHECKRET 0
+TiXmlBase::Parse TiXmlBase*,const\ wchar_t*,TiXmlParsingData*,  CHECKRET 0
+ATL::IAtlStringMgr::GetNilString ATL::IAtlStringMgr*,  CHECKRET 0
+fopen -  CHECKRET 0
+NppParameters::getWorkSpaceFilePath const\ NppParameters*,int,  CHECKRET 0
+NppParameters::getLocalAppDataNppDir const\ NppParameters*,  CHECKRET 0
+TiXmlElementA::Attribute const\ TiXmlElementA*,const\ char*,int*,  CHECKRET 0
+TiXmlAttribute::Value const\ TiXmlAttribute*,  CHECKRET 0
+TiXmlBase::GetChar ,const\ wchar_t*,wchar_t*,  CHECKRET 0
+std::error_category::name const\ std::error_category*,  CHECKRET 0

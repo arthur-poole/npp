@@ -1,0 +1,655 @@
+List of functions with unknown behavior (and their header files)
+
+    ControlsTab::#constructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\WinControls\TabBar\ControlsTab.h
+    ControlsTab::#destructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\WinControls\TabBar\ControlsTab.h
+    Date::#constructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\Parameters.h
+    Lang::#destructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\Parameters.h
+    SplitterContainer::#destructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\WinControls\SplitterContainer\SplitterContainer.h
+    Style::#constructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\Parameters.h
+    Window::#destructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\WinControls\Window.h
+    Window::operator=;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\WinControls\Window.h
+    nsPkgInt::#constructor;    D:\Klocwork_Training\notepad-plus-plus-master\notepad-plus-plus-master\PowerEditor\src\uchardet\nsPkgInt.h
+<SYSTEM>    ATL::IAtlMemMgr::Allocate;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlmem.h
+<SYSTEM>    ATL::IAtlMemMgr::Free;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlmem.h
+<SYSTEM>    ATL::IAtlMemMgr::Reallocate;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlmem.h
+<SYSTEM>    ATL::IAtlStringMgr::Free;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlsimpstr.h
+<SYSTEM>    AdjustWindowRectEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    AllocateAndInitializeSid;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\securitybaseapi.h
+<SYSTEM>    AppendMenuW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    AssocQueryStringW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\Shlwapi.h
+<SYSTEM>    BstrFromVector;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    CLSIDFromString;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CallNextHookEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CallWindowProcW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CancelIo;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\ioapiset.h
+<SYSTEM>    CertCloseStore;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    CertFreeCertificateContext;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    CertGetCertificateContextProperty;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    CertGetNameStringW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    CertNameToStrW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    ChangeClipboardChain;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CharLowerBuffW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CharNextW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CharUpperBuffW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CheckMenuItem;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CheckMenuRadioItem;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CheckTokenMembership;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\securitybaseapi.h
+<SYSTEM>    ChooseColorW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\commdlg.h
+<SYSTEM>    CoCreateInstance;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoGetMalloc;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoInitialize;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\objbase.h
+<SYSTEM>    CoMarshalInterThreadInterfaceInStream;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoMarshalInterface;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoRegisterClassObject;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoReleaseMarshalData;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoRevokeClassObject;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoTaskMemAlloc;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoTaskMemFree;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoTaskMemRealloc;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoUninitialize;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CoUnmarshalInterface;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CreateCaret;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    CreateStreamOnHGlobal;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    CryptMsgClose;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    CryptMsgGetParam;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    CryptQueryObject;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+<SYSTEM>    DPA_Search;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    DPtoLP;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    DecodePointer;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\utilapiset.h
+<SYSTEM>    DeferWindowPos;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DeleteMenu;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DestroyAcceleratorTable;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DestroyCaret;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DialogBoxIndirectParamW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DialogBoxParamW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DragFinish;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
+<SYSTEM>    DragQueryFileW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
+<SYSTEM>    DragQueryPoint;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
+<SYSTEM>    DrawEdge;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DrawFocusRect;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DrawFrameControl;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DrawIcon;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DrawIconEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DrawMenuBar;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DrawTextExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    DrawTextW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    EmptyClipboard;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    EnableMenuItem;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    EncodePointer;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\utilapiset.h
+<SYSTEM>    EndDeferWindowPos;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    EndDialog;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    EndDoc;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    EndPage;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    EndPaint;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    EnumFontFamiliesExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    FlashWindowEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    FrameRect;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    FreeSid;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\securitybaseapi.h
+<SYSTEM>    GetACP;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinNls.h
+<SYSTEM>    GetActiveWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetClassNameA;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetClassNameW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetCurrentProcessId;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\processthreadsapi.h
+<SYSTEM>    GetCurrentThreadId;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\processthreadsapi.h
+<SYSTEM>    GetDlgCtrlID;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetDlgItemInt;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetDlgItemTextA;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetDlgItemTextW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetFileAttributesExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h
+<SYSTEM>    GetKeyState;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetKeyboardState;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetLastError;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\errhandlingapi.h
+<SYSTEM>    GetLocalTime;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h
+<SYSTEM>    GetLongPathNameW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h
+<SYSTEM>    GetMenuItemCount;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetMenuItemID;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetMenuItemInfoW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetMenuState;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetMenuStringW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetMessageA;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetMonitorInfoW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetObjectW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    GetOpenFileNameW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\commdlg.h
+<SYSTEM>    GetPixel;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    GetROP2;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    GetSaveFileNameW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\commdlg.h
+<SYSTEM>    GetScrollPos;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetScrollRange;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetSysColor;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetSysColorBrush;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetSystemInfo;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h
+<SYSTEM>    GetSystemMetrics;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetTextExtentPoint32W;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    GetTextExtentPointW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    GetTextMetricsW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    GetTimeFormatW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\datetimeapi.h
+<SYSTEM>    GetVersionExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h
+<SYSTEM>    GetWindowLongPtrW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetWindowLongW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetWindowPlacement;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetWindowRect;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetWindowTextLengthW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GetWindowTextW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    GlobalSize;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    GlobalUnlock;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    HeapCreate;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\heapapi.h
+<SYSTEM>    HeapDestroy;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\heapapi.h
+<SYSTEM>    HeapSize;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\heapapi.h
+<SYSTEM>    HideCaret;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ImageList_AddMasked;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_BeginDrag;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_Destroy;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_DragEnter;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_DragMove;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_DragShowNolock;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_Draw;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_EndDrag;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_GetImageCount;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_GetImageInfo;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_ReplaceIcon;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    ImageList_SetIconSize;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    InflateRect;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    InitCommonControls;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    InitCommonControlsEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\CommCtrl.h
+<SYSTEM>    InitializeCriticalSectionAndSpinCount;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+<SYSTEM>    InsertMenuItemW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    InsertMenuW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    InvalidateRect;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsCharAlphaNumericW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsCharAlphaW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsCharLowerW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsChild;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsClipboardFormatAvailable;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsDestinationReachableW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\SensAPI.h
+<SYSTEM>    IsDialogMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsIconic;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsNetworkAlive;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\SensAPI.h
+<SYSTEM>    IsTextUnicode;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    IsWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsWindowUnicode;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsWindowVisible;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    IsZoomed;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    LCMapStringW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinNls.h
+<SYSTEM>    LineTo;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    LoadLibraryExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\libloaderapi.h
+<SYSTEM>    LoadStringW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\libloaderapi.h
+<SYSTEM>    LoadTypeLib;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    LocalSize;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    LockWindowUpdate;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    MapWindowPoints;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    MessageBeep;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    MessageBoxA;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    MessageBoxW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ModifyMenuW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    MoveFileExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    MoveFileW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    MoveToEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    MoveWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    MulDiv;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    OffsetWindowOrgEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    OleSaveToStream;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\Ole2.h
+<SYSTEM>    OpenClipboard;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    OutputDebugStringA;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\debugapi.h
+<SYSTEM>    OutputDebugStringW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\debugapi.h
+<SYSTEM>    PatBlt;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    PeekMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    PostMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    PostQuitMessage;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    PostThreadMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    PrintDlgW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\commdlg.h
+<SYSTEM>    PtInRect;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    QueueUserAPC;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\processthreadsapi.h
+<SYSTEM>    RaiseException;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\errhandlingapi.h
+<SYSTEM>    ReadClassStm;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\Ole2.h
+<SYSTEM>    ReadDirectoryChangesW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    Rectangle;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    RedrawWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    RegCreateKeyExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegDeleteKeyW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegDeleteValueW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegEnumKeyExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegFlushKey;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegGetKeySecurity;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegNotifyChangeKeyValue;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegQueryInfoKeyW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegSetKeySecurity;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegSetValueExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+<SYSTEM>    RegisterClassExW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    RegisterClassW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    RegisterClipboardFormatW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    RegisterWindowMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ReleaseCapture;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ReleaseSemaphore;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+<SYSTEM>    RemoveMenu;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    RemovePropW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ResetEvent;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+<SYSTEM>    RestoreDC;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SHCreateDirectory;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\ShlObj.h
+<SYSTEM>    SHFileOperationW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
+<SYSTEM>    SHGetFolderPathW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\ShlObj.h
+<SYSTEM>    SHGetMalloc;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\ShlObj.h
+<SYSTEM>    SHGetPathFromIDListW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\ShlObj.h
+<SYSTEM>    SafeArrayCopy;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    SafeArrayGetVartype;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    SaveDC;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    ScreenToClient;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ScrollWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SendDlgItemMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SendMessageW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetBkColor;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SetBkMode;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SetBrushOrgEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SetCapture;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetCaretPos;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetClipboardViewer;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetCursor;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetDlgItemInt;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetDlgItemTextA;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetDlgItemTextW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetEvent;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+<SYSTEM>    SetFileAttributesW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h
+<SYSTEM>    SetFocus;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetForegroundWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetLastError;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\errhandlingapi.h
+<SYSTEM>    SetMenu;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetMenuItemInfoW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetParent;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetPropW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetROP2;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SetRectEmpty;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetScrollInfo;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetScrollPos;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetScrollRange;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetTextAlign;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SetTextColor;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SetWindowLongPtrW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetWindowOrgEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    SetWindowPlacement;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetWindowPos;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SetWindowTextW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    Shell_NotifyIconW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
+<SYSTEM>    ShowCaret;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ShowCursor;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ShowScrollBar;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    ShowWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SizeofResource;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\libloaderapi.h
+<SYSTEM>    StartDocW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    StartPage;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    StretchBlt;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+<SYSTEM>    StringFromCLSID;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    StringFromGUID2;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+<SYSTEM>    SystemParametersInfoW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    SystemTimeToVariantTime;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    ToAscii;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    TrackMouseEvent;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    TrackPopupMenu;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    TranslateAcceleratorW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    TranslateMessage;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    TryEnterCriticalSection;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+<SYSTEM>    UnhookWindowsHookEx;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    UnregisterClassW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    UpdateWindow;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    VarBstrCat;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VarBstrCmp;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VarCmp;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VarUI4FromStr;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VariantChangeType;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VariantClear;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VariantCopy;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VariantInit;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VariantTimeToSystemTime;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VectorFromBstr;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\OleAuto.h
+<SYSTEM>    VerQueryValueW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winver.h
+<SYSTEM>    WinVerifyTrust;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinTrust.h
+<SYSTEM>    WriteClassStm;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\Ole2.h
+<SYSTEM>    _Cnd_broadcast;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_destroy;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_destroy_in_situ;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_do_broadcast_at_thread_exit;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_init;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_init_in_situ;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_register_at_thread_exit;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_signal;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_timedwait;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_unregister_at_thread_exit;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Cnd_wait;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _CrtDbgReportW;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
+<SYSTEM>    _CrtSetReportHook;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
+<SYSTEM>    _Getcoll;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Getctype;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Getcvt;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Getdateorder;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Getdays;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Getmonths;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Gettnames;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Getwctype;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _InterlockedCompareExchange;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
+<SYSTEM>    _InterlockedDecrement;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
+<SYSTEM>    _InterlockedExchangeAdd;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    _InterlockedExchangeAdd64;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    _InterlockedExchangePointer;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    _InterlockedIncrement;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\intrin.h
+<SYSTEM>    _Lock_shared_ptr_spin_lock;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xatomic0.h
+<SYSTEM>    _Mbrtowc;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Mtx_current_owns;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_destroy;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_destroy_in_situ;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_getconcrtcs;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_init;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_init_in_situ;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_lock;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_timedlock;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_trylock;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Mtx_unlock;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Query_perf_counter;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xtimec.h
+<SYSTEM>    _Query_perf_frequency;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xtimec.h
+<SYSTEM>    _Thrd_detach;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Thrd_hardware_concurrency;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Thrd_id;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Thrd_join;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Thrd_sleep;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Thrd_start;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthrcommon.h
+<SYSTEM>    _Thrd_yield;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthreads.h
+<SYSTEM>    _Unlock_shared_ptr_spin_lock;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xatomic0.h
+<SYSTEM>    _W_Getdays;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _W_Getmonths;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _W_Gettnames;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Wcrtomb;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo.h
+<SYSTEM>    _Xtime_get_ticks;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xtimec.h
+<SYSTEM>    __ExceptionPtrAssign;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrCompare;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrCopy;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrCopyException;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrCreate;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrCurrentException;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrDestroy;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrRethrow;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrSwap;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __ExceptionPtrToBool;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception
+<SYSTEM>    __acrt_iob_func;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __conio_common_vcwprintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+<SYSTEM>    __conio_common_vcwprintf_p;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+<SYSTEM>    __conio_common_vcwprintf_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+<SYSTEM>    __conio_common_vcwscanf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+<SYSTEM>    __readgsqword;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    __shiftright128;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    __std_exception_copy;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_exception.h
+<SYSTEM>    __std_exception_destroy;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_exception.h
+<SYSTEM>    __std_type_info_compare;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
+<SYSTEM>    __std_type_info_hash;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
+<SYSTEM>    __std_type_info_name;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_typeinfo.h
+<SYSTEM>    __stdio_common_vfprintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vfprintf_p;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vfprintf_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vfscanf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vfwprintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vfwprintf_p;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vfwprintf_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vfwscanf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vsnprintf_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vsnwprintf_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vsprintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vsprintf_p;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vsprintf_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vsscanf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    __stdio_common_vswprintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vswprintf_p;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vswprintf_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stdio_common_vswscanf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+<SYSTEM>    __stosb;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    __uncaught_exception;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atltransactionmanager.h
+<SYSTEM>    __va_start;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vadefs.h
+<SYSTEM>    _beginthreadex;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\process.h
+<SYSTEM>    _chgsign;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _chvalidator_l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\ctype.h
+<SYSTEM>    _copysign;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _create_locale;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\locale.h
+<SYSTEM>    _ctime64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _difftime64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _dpcomp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _dsign;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _dtest;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _exception_code;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\excpt.h
+<SYSTEM>    _fdpcomp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _fdsign;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _fdtest;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _free_dbg;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
+<SYSTEM>    _free_locale;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\locale.h
+<SYSTEM>    _fseeki64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    _fstat64i32;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys\stat.h
+<SYSTEM>    _ftelli64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    _gcvt_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _get_errno;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _get_stream_buffer_pointers;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+<SYSTEM>    _get_terminate;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_terminate.h
+<SYSTEM>    _get_unexpected;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\eh.h
+<SYSTEM>    _gmtime64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _gmtime64_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _hypot;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _hypotf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _i64toa_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _i64tow_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _invalid_parameter;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+<SYSTEM>    _invalid_parameter_noinfo;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+<SYSTEM>    _isctype_l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\ctype.h
+<SYSTEM>    _itoa_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _itow_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _ldpcomp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _ldsign;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _ldtest;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    _localtime64_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _ltoa_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _ltow_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _mbslwr_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\mbstring.h
+<SYSTEM>    _mbspbrk;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\mbstring.h
+<SYSTEM>    _mbspbrk_l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\mbstring.h
+<SYSTEM>    _mbsstr;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\mbstring.h
+<SYSTEM>    _mbsstr_l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\mbstring.h
+<SYSTEM>    _mbsupr_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\mbstring.h
+<SYSTEM>    _mkgmtime64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _mktime64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _msize;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+<SYSTEM>    _mul128;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    _recalloc;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+<SYSTEM>    _resetstkoflw;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
+<SYSTEM>    _set_errno;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _set_se_translator;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\eh.h
+<SYSTEM>    _stat64i32;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys\stat.h
+<SYSTEM>    _strlwr_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+<SYSTEM>    _strupr_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+<SYSTEM>    _time64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _timespec64_get;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+<SYSTEM>    _ui64toa_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _ui64tow_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _ultoa_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    _ultow_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _umul128;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+<SYSTEM>    _wcslwr_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    _wcsnset;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    _wcsnset_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    _wcsset;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    _wcsset_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    _wcstod_l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _wcsupr_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    _wctime64;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wtime.h
+<SYSTEM>    _wmakepath_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _wsopen_dispatch;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wio.h
+<SYSTEM>    _wsplitpath_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _wstat64i32;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys\stat.h
+<SYSTEM>    _wtof;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    _wtoi;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    acos;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    acosf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    acoshf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    acoshl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    asin;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    asinf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    asinhf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    asinhl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    atan;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    atan2;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    atan2f;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    atanf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    atanhf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    atanhl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    cbrtf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    cbrtl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    ceil;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    ceilf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    copysignf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    copysignl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    cos;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    cosf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    cosh;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    coshf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    erfcf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    erfcl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    erff;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    erfl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    exp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    exp2f;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    exp2l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    expf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    expm1f;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    expm1l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fabs;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fdimf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fdiml;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    floor;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    floorf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fma;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fmaf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fmal;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fmaxf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fmaxl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fminf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fminl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fmod;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    fmodf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    frexp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    ilogbf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    ilogbl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    iswalnum;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+<SYSTEM>    iswalpha;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+<SYSTEM>    iswascii;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+<SYSTEM>    iswdigit;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+<SYSTEM>    iswupper;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+<SYSTEM>    labs;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    ldexp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    ldiv;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    lgammaf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    lgammal;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    llabs;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    lldiv;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    llrintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    llrintl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    llroundf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    llroundl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    log;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    log10;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    log10f;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    log1pf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    log1pl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    log2f;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    log2l;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    logbf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    logbl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    logf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    lrintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    lrintl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    lroundf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    lroundl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    lstrlenW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinBase.h
+<SYSTEM>    modf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    modff;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    mouse_event;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
+<SYSTEM>    nearbyintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    nearbyintl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    nextafterf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    nextafterl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    nexttowardf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    nexttowardl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    pow;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    powf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    remainderf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    remainderl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    remquo;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    remquof;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    remquol;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    rintf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    rintl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    roundf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    roundl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    scalblnf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    scalblnl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    scalbnf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    scalbnl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    sin;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    sinf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    sinh;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    sinhf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    sqrt;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    sqrtf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    srand;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    std::_Debug_message;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility
+<SYSTEM>    std::_Facet_Register;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xfacet
+<SYSTEM>    std::_Locinfo::_Locinfo_Addcats;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo
+<SYSTEM>    std::_Locinfo::_Locinfo_ctor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo
+<SYSTEM>    std::_Locinfo::_Locinfo_dtor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocinfo
+<SYSTEM>    std::_Lockit::#constructor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\yvals.h
+<SYSTEM>    std::_Lockit::#destructor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\yvals.h
+<SYSTEM>    std::_Syserror_map;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\system_error
+<SYSTEM>    std::_Throw_C_error;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthread
+<SYSTEM>    std::_Throw_Cpp_error;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thr\xthread
+<SYSTEM>    std::_Winerror_map;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\system_error
+<SYSTEM>    std::_Winerror_message;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\system_error
+<SYSTEM>    std::_Xbad_alloc;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility
+<SYSTEM>    std::_Xinvalid_argument;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility
+<SYSTEM>    std::_Xlength_error;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility
+<SYSTEM>    std::_Xout_of_range;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility
+<SYSTEM>    std::_Xruntime_error;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility
+<SYSTEM>    std::ios_base::Init::_Init_ctor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xiosbase
+<SYSTEM>    std::ios_base::Init::_Init_dtor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xiosbase
+<SYSTEM>    std::ios_base::_Addstd;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xiosbase
+<SYSTEM>    std::ios_base::_Ios_base_dtor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xiosbase
+<SYSTEM>    std::locale::_Init;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
+<SYSTEM>    std::locale::_Locimp::_Locimp_Addfac;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
+<SYSTEM>    std::locale::_Locimp::_Locimp_ctor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
+<SYSTEM>    std::locale::_Locimp::_Locimp_dtor;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
+<SYSTEM>    std::locale::_Locimp::_Makeloc;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale
+<SYSTEM>    std::setw;    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\iomanip
+<SYSTEM>    stricmp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+<SYSTEM>    strnicmp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+<SYSTEM>    strtof;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    strtold;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    strtoll;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    strtoull;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+<SYSTEM>    tan;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    tanf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    tanh;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    tanhf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    tgammaf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    tgammal;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    tolower;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\ctype.h
+<SYSTEM>    towlower;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+<SYSTEM>    truncf;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    truncl;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+<SYSTEM>    uaw_CharUpperW;    C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+<SYSTEM>    uaw_lstrcmpW;    C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+<SYSTEM>    uaw_lstrcmpiW;    C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+<SYSTEM>    uaw_lstrlenW;    C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+<SYSTEM>    uaw_wcsicmp;    C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+<SYSTEM>    wcsicmp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    wcsnicmp;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    wcsnlen;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    wcsspn;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    wcstod;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    wcstof;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    wcstok_s;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+<SYSTEM>    wcstol;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    wcstold;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    wcstoll;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    wcstoul;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    wcstoull;    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+<SYSTEM>    wsprintfW;    C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinUser.h
